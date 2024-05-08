@@ -8,13 +8,18 @@
 
 
 <url>
-  <loc>https://chadha93.github.io/</loc>
-  <lastmod>2024-02-21T14:44:26+00:00</lastmod>
+  <loc>https://beebombshell.github.io/</loc>
+  <lastmod>2024-05-08T17:02:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://chadha93.github.io/index.html</loc>
-  <lastmod>2024-02-21T14:44:26+00:00</lastmod>
+  <loc>https://beebombshell.github.io/index.html</loc>
+  <lastmod>2024-05-08T17:02:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://beebombshell.github.io/contact.html</loc>
+  <lastmod>2024-05-08T17:02:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
